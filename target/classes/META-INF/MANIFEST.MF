@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vanderlei
+Build-Jdk: 10.0.1
+Implementation-Title: springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vanderlei
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,6 @@
+com/vanderlei/apiuol/ProjetouolApplication.class
+com/vanderlei/apiuol/utils/SwaggerConfig.class
+com/vanderlei/apiuol/controller/ClienteController.class
+com/vanderlei/apiuol/helper/Location.class
+com/vanderlei/apiuol/entity/Cliente.class
+com/vanderlei/apiuol/repository/ClienteRepository.class

@@ -1,0 +1,6 @@
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/entity/Cliente.java
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/utils/SwaggerConfig.java
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/controller/ClienteController.java
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/helper/Location.java
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/ProjetouolApplication.java
+/home/vanderlei/dev/projetos/projetouol/src/main/java/com/vanderlei/apiuol/repository/ClienteRepository.java

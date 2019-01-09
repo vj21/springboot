@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vanderlei.apiuol.ProjetouolApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.457 s - in com.vanderlei.apiuol.ProjetouolApplicationTests
